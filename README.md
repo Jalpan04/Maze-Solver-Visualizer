@@ -1,4 +1,6 @@
 # 🧩 Maze Solver Visualization
+
+![GitHub top language](https://img.shields.io/github/languages/top/Jalpan04/Maze-Solver-Visualizer) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/Maze-Solver-Visualizer) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![Pygame](https://img.shields.io/badge/pygame-2.0+-green.svg)](https://www.pygame.org/)
 [![NumPy](https://img.shields.io/badge/numpy-1.20+-orange.svg)](https://numpy.org/)
